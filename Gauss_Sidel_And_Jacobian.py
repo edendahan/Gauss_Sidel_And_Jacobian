@@ -1,3 +1,6 @@
+Eden Dahan 318641222
+Ruth Avivi 208981555
+
 import sys
 
 def determinant_recursive(A, total=0):
